@@ -33,7 +33,11 @@ Installing Windows Server on my VM
 Setting up IP addresses on the DC using the following diagram:
 <br/>
 
-![image](https://user-images.githubusercontent.com/120264673/207483014-54322000-5775-42f2-93d8-0ecbfeb5058b.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/120264673/207483014-54322000-5775-42f2-93d8-0ecbfeb5058b.png" />
+</p>
+
 
 
 <br />
@@ -44,8 +48,10 @@ Implementation:
 <br/>
 </p>
 
-![image](https://user-images.githubusercontent.com/120264673/207483040-b591a78d-0962-4317-930b-82c50f7974d7.png)
-
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/120264673/207483040-b591a78d-0962-4317-930b-82c50f7974d7.png" />
+</p>
 
 <p align="center">
 Installing Active Directory Domain Services
@@ -195,7 +201,8 @@ Client VM showing in ADUC and the lease for the Client VM
 </p>
 
 
-
+<p align= "center">
+Thanks for viewing!
 
 
 <!--
