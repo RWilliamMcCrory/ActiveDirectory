@@ -30,7 +30,7 @@ Installing Windows Server on my VM
 ![image](https://user-images.githubusercontent.com/120264673/207482496-fdbe1fe5-d618-478e-b32c-41893560864f.png)
 
 <p align="center">
-Setting up IP addresses on the DC using the following diagram:
+Setting up IP addressing on the DC using the following diagram:
 <br/>
 
 
@@ -79,7 +79,7 @@ Deployment:  Promoting computer to a Domain
 
 
 <p align= "center">
-Creating an Organizational Unit for Admin accounts
+Creating an Organizational Unit for admin accounts
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/120264673/207483319-0ace0504-9b80-469f-850a-1eb29bbda2ee.png" />
@@ -95,7 +95,7 @@ Creating an Organizational Unit for Admin accounts
 
 
 <p align= "center">
-Creating an Admin account:
+Creating an admin account:
 
  <p align="center">
   <img src="https://user-images.githubusercontent.com/120264673/207484304-0f49633a-a14b-4f24-bc60-49f4eb0b7e54.png" />
@@ -104,7 +104,7 @@ Creating an Admin account:
 
 
 <p align= "center">
-Provisioining the account with the needed admin security group
+Provisioning the account with the needed admin security group
 
  <p align="center">
   <img src="https://user-images.githubusercontent.com/120264673/207484694-162dd37d-f689-4750-a10e-5a23c8b33ad3.png" />
@@ -124,7 +124,7 @@ Signing in with the newly created A-Account
 
 
 <p align= "center">
-Installing (RAS/NAT) on the DC to allow my Windows 10 client to access the internet through the DC
+Installing (RAS/NAT) on the DC to allow my additional Windows 10 client to access the internet through the DC
 
  <p align="center">
   <img src="https://user-images.githubusercontent.com/120264673/207485047-29951abe-eff6-4513-9e20-71ca70bf8462.png" />
