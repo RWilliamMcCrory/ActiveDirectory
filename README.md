@@ -18,7 +18,7 @@ In this project, I setup Windows Server, create and configure a DC, then I autom
 - <b>Windows 10</b>
 - <b>Windows Server 2019</b>
 
-<h2>Project walk-through:</h2>
+<h2>Project walk-through</h2>
 
 
 <p align="center">
